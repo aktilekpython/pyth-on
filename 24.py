@@ -35,8 +35,13 @@
 
 
 #dict_ = {'first': '1st', 'second': '2nd ',  }
-
-
+#
+# list1 = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'october', 'sunday']
+# print(list1)
+# list2 = list1.copy()
+# list2.remove('october')
+# list2.insert(5, 'saturday')
+# print(list2)
 
 
 
@@ -49,9 +54,6 @@
 
 # method  мноожество
 
-set_ = {1,2,3,4,5,6,7,8,9,0}
-print(set_.pop())
-print(set_)
 
 
 

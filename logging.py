@@ -18,7 +18,7 @@
 # text = input('Input here: ')
 # print(text.isalpha())
 
-# method isalnum gпроверяет все ли символы в строке цифры и буквы
+# method isalnum проверяет все ли символы в строке цифры и буквы
 
  #text = input('Input: ')
 # print(text.isalnum())

@@ -1,4 +1,4 @@
-ISTS/списки
+#ISTS/списки
 
 # method append дополняет список элементами
 
@@ -66,7 +66,7 @@ ISTS/списки
 #
 # list_ = ['apple', 'banana', 'pineapple', 'strawberry', 'apple']
 # new_list = list_.copy()
-#
+# 
 # new_list.append('blackberry')
 # print(new_list)
 # print(list_)
